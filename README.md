@@ -31,3 +31,5 @@
 10. URL para clone: http://www.linkedin.com
 
 11. Resutados
+
+![passwd](https://github.com/Daniel-Aleixo/cybersecurity_specialist/assets/85321527/e56a4901-b63c-4975-a530-53aae06de494)
